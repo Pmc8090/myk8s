@@ -2,25 +2,60 @@
  <channel id="3">
  <display-name lang="zh">CCTV3</display-name>
  </channel>
- <programme  start="20200514060900 +0800" stop="20200514065200 +0800" channel="3">
-  <title lang="zh">综艺喜乐汇-2020-371</title>
- </programme>
- <programme  start="20200514065200 +0800" stop="20200514073500 +0800" channel="3">
-  <title lang="zh">综艺喜乐汇-2020-372</title>
- </programme>
- <programme  start="20200514073500 +0800" stop="20200514081800 +0800" channel="3">
-  <title lang="zh">综艺喜乐汇-2020-373</title>
- </programme>
- <programme  start="20200514081800 +0800" stop="20200514090100 +0800" channel="3">
-  <title lang="zh">综艺喜乐汇-2020-374</title>
- </programme>
- <programme start="20200514090100 +0800" stop="20200514104300 +0800" channel="3">
-  <title lang="zh">综艺喜乐汇-2020-375</title>
- </programme>
- <programme  start="20200514104300 +0800" stop="20200514112600 +0800" channel="3">
-  <title lang="zh">综艺喜乐汇-2020-376</title>
- </programme>
- <programme  start="20200514112600 +0800" stop="20200514125100 +0800" channel="3">
-  <title lang="zh">天天把歌唱-2020-86</title>
- </programme>
+<programme start="20200514000950 +0800" stop="20200514005250 +0800" channel="3">
+<title lang="zh">综艺喜乐汇-2020-371</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514005250 +0800" stop="20200514013550 +0800" channel="3">
+<title lang="zh">综艺喜乐汇-2020-372</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514013550 +0800" stop="20200514021850 +0800" channel="3">
+<title lang="zh">综艺喜乐汇-2020-373</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514021850 +0800" stop="20200514030150 +0800" channel="3">
+<title lang="zh">综艺喜乐汇-2020-374</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514030150 +0800" stop="20200514034350 +0800" channel="3">
+<title lang="zh">综艺喜乐汇-2020-375</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514034350 +0800" stop="20200514042650 +0800" channel="3">
+<title lang="zh">综艺喜乐汇-2020-376</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514042650 +0800" stop="20200514045150 +0800" channel="3">
+<title lang="zh">天天把歌唱-2020-86</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514045150 +0800" stop="20200514045455 +0800" channel="3">
+<title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-洪湖水 浪打浪</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514045455 +0800" stop="20200514045755 +0800" channel="3">
+<title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-万泉河水清又清</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514045755 +0800" stop="20200514061555 +0800" channel="3">
+<title lang="zh">向幸福出发-2020-15</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514061555 +0800" stop="20200514073355 +0800" channel="3">
+<title lang="zh">开门大吉-2020-13</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514073355 +0800" stop="20200514074440 +0800" channel="3">
+<title lang="zh">文化十分-2020-98</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514074440 +0800" stop="20200514090555 +0800" channel="3">
+<title lang="zh">综艺喜乐汇-2020-918</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20200514090555 +0800" stop="20200514101450 +0800" channel="3">
+<title lang="zh">综艺喜乐汇-2020-77</title>
+<desc lang="zh"> </desc>
+</programme>
 </tv>
