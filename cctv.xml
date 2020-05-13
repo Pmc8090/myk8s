@@ -2,25 +2,25 @@
  <channel id="3">
  <display-name lang="zh">CCTV3</display-name>
  </channel>
- <programme  start="20200514000900 +0800" stop="20200514005200 +0800" channel="CCTV3">
+ <programme  start="20200514060900 +0800" stop="20200514065200 +0800" channel="CCTV3">
   <title lang="zh">综艺喜乐汇-2020-371</title>
  </programme>
- <programme  start="20200514005200 +0800" stop="20200514013500 +0800" channel="CCTV3">
+ <programme  start="20200514065200 +0800" stop="20200514073500 +0800" channel="CCTV3">
   <title lang="zh">综艺喜乐汇-2020-372</title>
  </programme>
- <programme  start="20200514013500 +0800" stop="20200514021800 +0800" channel="CCTV3">
+ <programme  start="20200514073500 +0800" stop="20200514081800 +0800" channel="CCTV3">
   <title lang="zh">综艺喜乐汇-2020-373</title>
  </programme>
- <programme  start="20200514021800 +0800" stop="20200514030100 +0800" channel="CCTV3">
+ <programme  start="20200514081800 +0800" stop="20200514090100 +0800" channel="CCTV3">
   <title lang="zh">综艺喜乐汇-2020-374</title>
  </programme>
- <programme start="20200514030100 +0800" stop="20200514034300 +0800" channel="CCTV3">
+ <programme start="20200514090100 +0800" stop="20200514104300 +0800" channel="CCTV3">
   <title lang="zh">综艺喜乐汇-2020-375</title>
  </programme>
- <programme  start="20200514034300 +0800" stop="20200514042600 +0800" channel="CCTV3">
+ <programme  start="20200514104300 +0800" stop="20200514112600 +0800" channel="CCTV3">
   <title lang="zh">综艺喜乐汇-2020-376</title>
  </programme>
- <programme  start="20200514042600 +0800" stop="20200514045100 +0800" channel="CCTV3">
+ <programme  start="20200514112600 +0800" stop="20200514125100 +0800" channel="CCTV3">
   <title lang="zh">天天把歌唱-2020-86</title>
  </programme>
 </tv>
